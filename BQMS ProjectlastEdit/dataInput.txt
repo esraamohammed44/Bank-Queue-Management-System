@@ -1,0 +1,29 @@
+// Number of customers
+ 3 
+//Detail about Clients: 
+Name of Client 1:- Asmaa
+Age: 15
+ArrivalTime:15
+ServiceTime:10
+*********************************   
+Name of Client 2:-Aya
+Age: 14
+ArrivalTime:15
+ServiceTime:10
+*********************************
+Name of Client 3:-Esraa
+Age: 20
+ArrivalTime:13
+ServiceTime:10
+*********************************
+Name of Client 4:-Ahamed
+Age: 17
+ArrivalTime:8
+ServiceTime:10
+*********************************
+Name of Client 5:-Aya
+Age: 25
+ArrivalTime:9
+ServiceTime:10
+********************************
+
